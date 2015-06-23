@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "jQuery linkIt plugin",
+    "description": "a very simple jQuery plugin to add links to elements",
+    "keywords": [
+        "link",
+        "element",
+        "html"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Iryna Charkashyna",
+        "url": "https://sites.google.com/site/charkashynaportfolio"
+    },
+    "maintainers": [
+        {
+            "name": "Iryna Charkashyna",
+            "email": "iryna.charkashyna@gmail.com",
+            "url": "https://sites.google.com/site/charkashynaportfolio"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/irach15/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/irach15/jquery.linkit",
+    "docs": "https://github.com/irach15/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
